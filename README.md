@@ -1,2 +1,2 @@
 ### Git_Workshop
-Welcome to my HitHub repository.
+Welcome to my GitHub repository.
